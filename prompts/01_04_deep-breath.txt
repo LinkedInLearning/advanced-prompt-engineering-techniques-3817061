@@ -1,0 +1,3 @@
+Take a deep breath and work on this problem step-by-step.
+
+48 people are riding a bus. On the first stop, 8 passengers get off, and 5 times as many people as the number who got off from the bus get into the bus. On the second stop 21, passengers get off and 3 times fewer passengers get on. How many passengers are riding the bus after the second stop?

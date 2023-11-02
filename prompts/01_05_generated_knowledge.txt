@@ -1,0 +1,10 @@
+Input: All dogs are descendants of wolves.
+Knowledge: All domestic dogs (Canis lupus familiaris) are descended from wolves (Canis lupus). The domestication of dogs from wolves occurred at least 15,000 years ago, but some estimates put the domestication event at up to 40,000 years ago. Through selective breeding over thousands of years, humans have been able to create a wide variety of dog breeds with a range of behaviors, appearances, and abilities.
+Input: Every planet in our solar system has moons.
+Knowledge: Not every planet in our solar system has moons. Mercury and Venus, the two planets closest to the sun, do not have any natural moons. The other six planets have a total of 205 known moons among them, with Jupiter and Saturn accounting for the majority of these moons due to their strong gravitational pulls.
+Input: Humans can only use 10% of their brain.
+Knowledge: The idea that humans only use 10% of their brain is a myth. Neuroimaging scans show activity coursing through the entire organ, even while we are at rest or asleep. Although it's true that at any given moment only a small fraction of the brain's neurons are firing, brain researchers using imaging technology have shown that virtually all parts of the brain have a known function.
+Input: The color of the sky is due to the ocean's reflection.
+Knowledge: The color of the sky is not due to the reflection of the ocean, but rather due to the scattering of sunlight by the atmosphere. The blue color of the sky is the result of a particular type of scattering called Rayleigh scattering. In the lower atmosphere, tiny oxygen and nitrogen molecules scatter short-wavelength light, such blue and violet light, to a far greater degree than than long-wavelength light, such as red and yellow. However, the violet light is absorbed by the upper atmosphere, which is why the sky appears blue instead of violet.
+Input: The pinkie toe has no functional purpose.
+Knowledge: 
